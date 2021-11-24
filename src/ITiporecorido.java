@@ -1,13 +1,6 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-/**
- *
- * @author javier
- */
-public class ITiporecorido {
+@FunctionalInterface
+public interface ITiporecorido {
+    
+    public void Recorrido (Nodo nod);
     
 }
