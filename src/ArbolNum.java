@@ -16,6 +16,8 @@ public class ArbolNum {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Vista vista = new Vista();
+        vista.setVisible(true);
     }
     
 }

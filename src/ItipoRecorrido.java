@@ -1,5 +1,5 @@
 @FunctionalInterface
-public interface ITiporecorido {
+public interface ItipoRecorrido {
     
     public void Recorrido (Nodo nod);
     
